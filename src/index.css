@@ -70,3 +70,11 @@ header {
 #w200-title {
   margin-top: 2px;
 }
+
+#ratios {
+  margin: 30px auto;
+}
+
+.btn-info {
+  color: white;
+}
