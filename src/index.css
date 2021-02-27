@@ -3,7 +3,10 @@ header {
   background-color: skyblue;
   text-align: center;
   padding: 5px;
-  margin-bottom: 15px;
+}
+
+.card {
+  margin: 30px auto;
 }
 
 #classes-img {
@@ -20,4 +23,24 @@ header {
 
 #axles-img {
   margin-top: 43px;
+}
+
+#special-title {
+  margin-top: 54px;
+}
+
+#special-img {
+  max-height: 250px;
+}
+
+#three18-title {
+  margin-top: 15px;
+}
+
+#three83-title {
+  margin-top: 35px;
+}
+
+#four26-title {
+  margin-top: 13px;
 }
