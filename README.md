@@ -17,9 +17,14 @@ A sleek, modern resource for learning the basics about the 1961-1971 Dodge picku
 
 ## Screenshots
 
-TODO
+#### Home page:
+
+![Home page](public\images\cap1.png)
+
+#### Article:
+
+![Article](public\images\cap2.png)
 
 ## Contact Me:
 
-<hr>
 For any site issues, email me: jeffreytwoods2@icloud.com
