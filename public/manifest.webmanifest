@@ -1,0 +1,15 @@
+{
+  "short_name": "Swepty",
+  "name": "Swepty",
+  "icons": [
+    {
+      "src": "./images/slant.png",
+      "sizes": "770x712 64x64 32x32 24x24",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#99ccff",
+  "background_color": "#ffffff"
+}
