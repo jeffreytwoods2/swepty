@@ -14,8 +14,12 @@ module.exports = function (app) {
         res.sendFile(path.join(__dirname, "../public/slant-six.html"));
     });
 
-    app.get("/three", function (req, res) {
+    app.get("/eighteen", function (req, res) {
         res.sendFile(path.join(__dirname, "../public/three18.html"));
+    });
+
+    app.get("/eightythree", function (req, res) {
+        res.sendFile(path.join(__dirname, "../public/three83.html"));
     });
 
     app.get("/axles", function (req, res) {
